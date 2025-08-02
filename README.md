@@ -1,36 +1,55 @@
-# Hi there, I'm Payel Dutta! 
+## Hi, I’m Payel Dutta
 
-**Data Analyst | Physics Background | Machine Learning Enthusiast**
+**Data Analyst | Physics Grad | Learning ML One Project at a Time**
 
-I'm a data analyst with a background in Physics who loves to draw and is currently soul-searching. I specialize in financial data analysis, predictive modeling, and extracting insights from complex datasets.
+I’m a Physics postgrad who fell into the world of data — and decided to stay. Right now, I’m building things that make sense of markets, tweets, and everything messy in between. I’m especially into financial data, crypto volatility, and finding patterns where most people see noise.
 
-##  What I'm Working On
-- **Cryptocurrency Market Analysis**: Building volatility prediction models and narrative analysis systems
-- **Financial Data Engineering**: Real-time data pipelines and automated trading insights
-- **Physics Simulations**: Computational modeling and statistical mechanics
-
-##  Featured Projects
-- **[Crypto Volatility Prediction](https://github.com/d-payel/crypto_volatility_prediction)**: Achieved R² of 0.81 using regularized regression on BTC/USD volatility forecasting
-- **[Tweet to Trades](https://github.com/d-payel/tweet_to_trades)**: Advanced NLP pipeline for Bitcoin narrative classification using 1,500+ labeled tweets
-- **[Ising Model Simulation](https://github.com/d-payel/Ising-Model-Simulation)**: Physics-based computational modeling
-
-##  Technical Skills
-- **Languages**: Python, SQL
-- **Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Machine Learning**: Regression, Classification, NLP, Feature Engineering
-- **APIs & Data**: REST APIs, Web Scraping, Real-time Data Processing
-- **Finance**: Technical Analysis, Risk Management, Volatility Modeling
-
-##  Currently Learning
-- Advanced ML techniques (XGBoost, Random Forest)
-- Sentiment analysis and social media data mining
-- Quantitative finance and algorithmic trading
-
-##  Let's Connect
-- **Pronouns**: She/Her
-- **Location**: India
-- **Email**: payeldutta9922@gmail.com
-- **[LinkedIn](https://www.linkedin.com/in/payel-dutta-501bbb219)**
+Being stubborn, curious, and okay with breaking things (and fixing them again).  
 
 ---
-*"Turning data into actionable insights, one analysis at a time"*
+
+## What I’m Working On
+- Crypto Sentiment Analysis – Scraping, cleaning, translating, labeling 1,500+ tweets to decode Bitcoin narratives  
+- Volatility Prediction – Building models to forecast BTC/USD swings using historical financial data  
+
+---
+
+## Featured Projects
+- [Crypto Volatility Prediction](https://github.com/d-payel/crypto_volatility_prediction): Used Ridge & Lasso regression, hit an R² of 0.81  
+- [Tweet to Trades](https://github.com/d-payel/tweet_to_trades): From scraping to labeling to modeling Bitcoin tweet narratives  
+- [Ising Model Simulation](https://github.com/d-payel/Ising-Model-Simulation): Physics + Python = nostalgic brain workout  
+
+---
+
+## Skills I Actually Use
+- Languages: Python, SQL  
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn  
+- ML & NLP: Scikit-learn, Regression Models, TF-IDF, Text Classification  
+- APIs & Web Data: REST APIs, BeautifulSoup, Selenium  
+- Finance: Risk analysis, basic algo trading logic, market behavior understanding
+
+---
+
+## Currently Learning
+- XGBoost, Random Forest, and ML beyond linear models  
+- Social media NLP (sentiment & narrative analysis)  
+- Real-time pipelines and how markets actually think
+
+---
+
+## A Bit About Me
+- I’m from India and currently figuring things out (career-wise, life-wise)  
+- Physics was my comfort zone, but now I’m learning to be okay with discomfort  
+- Once I land a job, I’m learning violin and taking my first trip ever — to Dehradun  
+- I used to draw with charcoal. Still miss it — you can find my sketches [here](https://instagram.com/art.escape_dystopia)  
+
+
+---
+
+## Reach Out
+- Email: payeldutta9922@gmail.com  
+- LinkedIn: [payel-dutta-501bbb219](https://www.linkedin.com/in/payel-dutta-501bbb219)  
+
+---
+
+*Not perfect. But building something real, one messy project at a time.*
