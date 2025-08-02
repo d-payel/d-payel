@@ -28,9 +28,9 @@ I'm a data analyst with a background in Physics who loves to draw and is current
 
 ##  Let's Connect
 - **Pronouns**: She/Her
-- **Location**: [India]
-- **Email**: [payeldutta9922@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/payel-dutta-501bbb219]
+- **Location**: India
+- **Email**: payeldutta9922@gmail.com
+- **[LinkedIn](https://www.linkedin.com/in/payel-dutta-501bbb219)**
 
 ---
 *"Turning data into actionable insights, one analysis at a time"*
