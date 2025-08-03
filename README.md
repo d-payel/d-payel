@@ -2,15 +2,12 @@
 
 **Data Analyst | Physics Grad | Learning ML One Project at a Time**
 
-I studied Physics, but I build with data now, and I like where it’s heading. Right now, I’m building things that make sense of markets, tweets, and everything messy in between. I’m especially into financial data, crypto volatility, and finding patterns where most people see noise.
+Right now, I’m building things that make sense of markets, tweets, and everything messy in between. I’m especially into financial data, crypto volatility, and finding patterns where most people see noise.
 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/payel-dutta-501bbb219" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:payeldutta9922@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -29,7 +26,6 @@ I studied Physics, but I build with data now, and I like where it’s heading. R
 **Architecture:**
 [Bitfinex API] -> [Data Ingestion Script] -> [Feature Engineering] -> [Lasso/Ridge Model] -> [Volatility Forecast]
 -->
-*[Optionally, add a GIF of your model's output or an architecture diagram here]*
 
 ---
 
@@ -67,6 +63,6 @@ I studied Physics, but I build with data now, and I like where it’s heading. R
 ---
 ## A Bit About Me
 - I’m from India and currently figuring things out (career-wise, life-wise)  
-- Physics was my comfort zone, but now I’m learning to be okay with discomfort   
-- I used to draw with charcoal. Still miss it! You can find my sketches [here](https://instagram.com/art.escape_dystopia)  
+- I studied Physics, but I build with data now, and I like where it’s heading   
+- I used to draw with charcoal. Still miss it! You can find my sketches [here](https://instagram.com/art.escape_dystopia)
 
