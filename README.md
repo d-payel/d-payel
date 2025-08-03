@@ -4,13 +4,6 @@
 
 Right now, I’m building things that make sense of markets, tweets, and everything messy in between. I’m especially into financial data, crypto volatility, and finding patterns where most people see noise.
 
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/payel-dutta-501bbb219" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
 ---
 
 ## Featured Projects
