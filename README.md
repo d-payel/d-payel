@@ -47,6 +47,9 @@ Right now, I’m building things that make sense of markets, tweets, and everyth
 | `Python` `Pandas` `Hypothesis Testing` | **Confirmed commuter peak hours (8AM & 5-6PM)** |  **[GitHub →](https://github.com/d-payel/Data-Analytics-01/tree/main/Hypothesis%20Testing%20on%20YULU%20Bike%20Rents)** |
 
 ---
+*My ongoing project, [Tweet-to-Trades](https://github.com/d-payel/tweet_to_trades), is my deep dive into NLP and market sentiment analysis.*
+
+---
 
 ## Technical Skills
 
@@ -56,9 +59,6 @@ Right now, I’m building things that make sense of markets, tweets, and everyth
 | **Analysis & ML** | `Pandas`, `NumPy`, `Scikit-learn`, `Regression`, `Hypothesis Testing`, `RFM/Cohort Analysis` |
 | **Visualization** | `Matplotlib`, `Seaborn`, `Tableau` |
 | **Data Ops** | `REST APIs`, `Web Scraping (Selenium)` |
-
----
-*My ongoing project, [Tweet-to-Trades](https://github.com/d-payel/tweet_to_trades), is my deep dive into NLP and market sentiment analysis.*
 
 ---
 ## A Bit About Me
