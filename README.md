@@ -4,7 +4,6 @@
 
 I studied Physics, but I build with data now — and I like where it’s heading. Right now, I’m building things that make sense of markets, tweets, and everything messy in between. I’m especially into financial data, crypto volatility, and finding patterns where most people see noise.
 
-Being stubborn, curious, and okay with breaking things (and fixing them again).  
 
 ---
 
