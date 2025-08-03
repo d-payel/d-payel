@@ -1,52 +1,72 @@
-## Hi, I’m Payel Dutta
+# Hi, I’m Payel Dutta
 
 **Data Analyst | Physics Grad | Learning ML One Project at a Time**
 
-I studied Physics, but I build with data now — and I like where it’s heading. Right now, I’m building things that make sense of markets, tweets, and everything messy in between. I’m especially into financial data, crypto volatility, and finding patterns where most people see noise.
+I studied Physics, but I build with data now, and I like where it’s heading. Right now, I’m building things that make sense of markets, tweets, and everything messy in between. I’m especially into financial data, crypto volatility, and finding patterns where most people see noise.
 
 
----
-
-## What I’m Working On
-- Crypto Sentiment Analysis – Scraping, cleaning, translating, labeling 1,500+ tweets to decode Bitcoin narratives  
-- Volatility Prediction – Building models to forecast BTC/USD swings using historical financial data  
+<p align="left">
+  <a href="https://www.linkedin.com/in/payel-dutta-501bbb219" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:payeldutta9922@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
 ## Featured Projects
-- [Crypto Volatility Prediction](https://github.com/d-payel/crypto_volatility_prediction): Used Ridge & Lasso regression, hit an R² of 0.81  
-- [Tweet to Trades](https://github.com/d-payel/tweet_to_trades): From scraping to labeling to modeling Bitcoin tweet narratives  
+
+### 1. Crypto Volatility Prediction | *Regression & Feature Engineering*
+> Built a model to forecast 30-minute BTC/USD volatility using Lasso & Ridge regression. Proved that `abs_log_return` is the strongest predictor of future risk.
+
+| Tech Stack | Key Result | View Repo |
+| :--- | :--- | :--- |
+| `Python` `Scikit-learn` `Pandas` `API`| **0.81 R² on Test Data** | **[GitHub →](https://github.com/d-payel/crypto_volatility_prediction)** |
+
+<!--
+**Architecture:**
+[Bitfinex API] -> [Data Ingestion Script] -> [Feature Engineering] -> [Lasso/Ridge Model] -> [Volatility Forecast]
+-->
+*[Optionally, add a GIF of your model's output or an architecture diagram here]*
 
 ---
 
-## Skills I Actually Use
-- Languages: Python, SQL  
-- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn  
-- ML & NLP: Scikit-learn, Regression Models, TF-IDF, Text Classification  
-- APIs & Web Data: REST APIs, Selenium  
-- Finance: Risk analysis, market behavior understanding
+### 2. Customer Segmentation & Retention | *SQL & Cohort Analysis*
+> Analyzed user data to uncover retention patterns. Revealed a **>90% user drop-off after month one**, leading to data-driven recommendations for targeted reactivation campaigns.
+
+| Tech Stack | Key Result | View Repo |  
+| :--- | :--- | :--- |
+| `SQL` `Tableau` `RFM Analysis` | **Flagged 27% payment failure rate** | **[GitHub →](https://github.com/d-payel/Data-Analytics-01/tree/main/Customer%20Segmentation%20and%20Retention%20Analysis%20using%20SQL)** |
+
 
 ---
 
-## Currently Learning
-- XGBoost, Random Forest, and ML beyond linear models  
-- Social media NLP (sentiment & narrative analysis)  
-- Real-time pipelines and how markets actually think
+### 3. Bike Rental Demand Analysis | *Hypothesis Testing & EDA*
+> Used statistical testing to identify the core drivers of bike-sharing demand. Proved that **weather was a significant factor (P < .001)**, while day-of-week was not, informing a strategy to optimize fleet availability.
+
+| Tech Stack | Key Result | View Repo |
+| :--- | :--- | :--- |
+| `Python` `Pandas` `Hypothesis Testing` | **Confirmed commuter peak hours (8AM & 5-6PM)** |  **[GitHub →](https://github.com/d-payel/Data-Analytics-01/tree/main/Hypothesis%20Testing%20on%20YULU%20Bike%20Rents)** |
 
 ---
 
+## Technical Skills
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | `Python`, `SQL` |
+| **Analysis & ML** | `Pandas`, `NumPy`, `Scikit-learn`, `Regression`, `Hypothesis Testing`, `RFM/Cohort Analysis` |
+| **Visualization** | `Matplotlib`, `Seaborn`, `Tableau` |
+| **Data Ops** | `REST APIs`, `Web Scraping (Selenium)` |
+
+---
+*My ongoing project, [Tweet-to-Trades](https://github.com/d-payel/tweet_to_trades), is my deep dive into NLP and market sentiment analysis.*
+
+---
 ## A Bit About Me
 - I’m from India and currently figuring things out (career-wise, life-wise)  
 - Physics was my comfort zone, but now I’m learning to be okay with discomfort   
-- I used to draw with charcoal. Still miss it — you can find my sketches [here](https://instagram.com/art.escape_dystopia)  
+- I used to draw with charcoal. Still miss it! You can find my sketches [here](https://instagram.com/art.escape_dystopia)  
 
-
----
-
-## Reach Out
-- Email: payeldutta9922@gmail.com  
-- LinkedIn: [payel-dutta-501bbb219](https://www.linkedin.com/in/payel-dutta-501bbb219)  
-
----
-
-*Not perfect. But building something real, one messy project at a time.*
