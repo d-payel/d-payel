@@ -16,7 +16,6 @@ I studied Physics, but I build with data now — and I like where it’s heading
 ## Featured Projects
 - [Crypto Volatility Prediction](https://github.com/d-payel/crypto_volatility_prediction): Used Ridge & Lasso regression, hit an R² of 0.81  
 - [Tweet to Trades](https://github.com/d-payel/tweet_to_trades): From scraping to labeling to modeling Bitcoin tweet narratives  
-- [Ising Model Simulation](https://github.com/d-payel/Ising-Model-Simulation): Physics + Python = nostalgic brain workout  
 
 ---
 
