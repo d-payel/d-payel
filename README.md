@@ -49,7 +49,7 @@ Right now, I’m building things that make sense of markets, tweets, and everyth
 | Category | Tools |
 | :--- | :--- |
 | **Languages** | `Python`, `SQL` |
-| **Analysis & ML** | `Pandas`, `NumPy`, `Scikit-learn`, `Regression`, `Hypothesis Testing`, `RFM/Cohort Analysis` |
+| **Analysis & ML** | `Pandas`, `NumPy`, `Scikit-learn`, `Regression`, `Boosting`, `Classification`, `Hypothesis Testing`, `RFM/Cohort Analysis` |
 | **Visualization** | `Matplotlib`, `Seaborn`, `Tableau` |
 | **Data Ops** | `REST APIs`, `Web Scraping (Selenium)` |
 
