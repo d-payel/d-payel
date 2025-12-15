@@ -2,7 +2,7 @@
 
 **Data Science Intern| Physics Grad**
 
-Right now, I’m building things that make sense of markets, tweets, and everything messy in between. I’m especially into financial data, crypto volatility, and finding patterns where most people see noise.
+Right now, I’m building things that make sense of markets, tweets, and everything messy in between. Interested in applying maths to real-world problems.
 
 ---
 
