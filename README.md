@@ -1,6 +1,6 @@
 # Hi, I’m Payel Dutta
 
-**Data Analyst | Physics Grad | Learning ML One Project at a Time**
+**Data Science Intern| Physics Grad | Learning ML One Project at a Time**
 
 Right now, I’m building things that make sense of markets, tweets, and everything messy in between. I’m especially into financial data, crypto volatility, and finding patterns where most people see noise.
 
