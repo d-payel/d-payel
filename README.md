@@ -8,7 +8,15 @@ Right now, I’m building things that make sense of markets, tweets, and everyth
 
 ## Featured Projects
 
-### 1. Crypto Volatility Prediction | *Regression & Feature Engineering*
+### 1. Bitcoin Sentiment Analysis | *NLP & Deep Learning*
+> Developed a Bidirectional LSTM model with GloVe embeddings to classify crypto sentiment from tweets. Tackled data imbalance and overfitting to significantly improve classification performance on niche market terminology.
+
+| Tech Stack | Key Result | View Repo |
+| :--- | :--- | :--- |
+| `Tensorflow` `Keras` `NLTK` `Selenium`| **F1-Score 0.72 on Test Data** | **[GitHub →](https://github.com/d-payel/coinSentiment_lstm)** |
+
+---
+### 2. Crypto Volatility Prediction | *Regression & Feature Engineering*
 > Built a model to forecast 30-minute BTC/USD volatility using Lasso & Ridge regression. Proved that `abs_log_return` is the strongest predictor of future risk.
 
 | Tech Stack | Key Result | View Repo |
@@ -22,7 +30,7 @@ Right now, I’m building things that make sense of markets, tweets, and everyth
 
 ---
 
-### 2. Customer Segmentation & Retention | *SQL & Cohort Analysis*
+### 3. Customer Segmentation & Retention | *SQL & Cohort Analysis*
 > Analyzed user data to uncover retention patterns. Revealed a **>90% user drop-off after month one**, leading to data-driven recommendations for targeted reactivation campaigns.
 
 | Tech Stack | Key Result | View Repo |  
@@ -32,7 +40,7 @@ Right now, I’m building things that make sense of markets, tweets, and everyth
 
 ---
 
-### 3. Bike Rental Demand Analysis | *Hypothesis Testing & EDA*
+### 4. Bike Rental Demand Analysis | *Hypothesis Testing & EDA*
 > Used statistical testing to identify the core drivers of bike-sharing demand. Proved that **weather was a significant factor (P < .001)**, while day-of-week was not, informing a strategy to optimize fleet availability.
 
 | Tech Stack | Key Result | View Repo |
@@ -40,7 +48,7 @@ Right now, I’m building things that make sense of markets, tweets, and everyth
 | `Python` `Pandas` `Hypothesis Testing` | **Confirmed commuter peak hours (8AM & 5-6PM)** |  **[GitHub →](https://github.com/d-payel/Data-Analytics-01/tree/main/Hypothesis%20Testing%20on%20YULU%20Bike%20Rents)** |
 
 ---
-*My ongoing project, [Tweet-to-Trades](https://github.com/d-payel/tweet_to_trades), is my deep dive into NLP and market sentiment analysis.*
+<!--*My ongoing project, [Tweet-to-Trades](https://github.com/d-payel/tweet_to_trades), is my deep dive into NLP and market sentiment analysis.*-->
 
 ---
 
@@ -50,6 +58,7 @@ Right now, I’m building things that make sense of markets, tweets, and everyth
 | :--- | :--- |
 | **Languages** | `Python`, `SQL` |
 | **Analysis & ML** | `Pandas`, `NumPy`, `Scikit-learn`, `Regression`, `Boosting`, `Classification`, `Hypothesis Testing`, `RFM/Cohort Analysis` |
+| **Deep Learning & NLP** | `TensorFlow`, `Keras`, `LSTM`, `NLTK`, `GloVe` |
 | **Visualization** | `Matplotlib`, `Seaborn`, `Tableau` |
 | **Data Ops** | `REST APIs`, `Web Scraping (Selenium)` |
 
