@@ -1,6 +1,6 @@
 # Hi, I’m Payel Dutta
 
-**Data Science Intern| Physics Grad**
+**Data Science Intern | Physics Grad**
 
 Right now, I’m building things that make sense of markets, tweets, and everything messy in between. Interested in applying maths to real-world problems.
 
