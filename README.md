@@ -64,7 +64,6 @@ Right now, I’m building things that make sense of markets, tweets, and everyth
 
 ---
 ## A Bit About Me
-- I’m from India and currently figuring things out (career-wise, life-wise)  
 - I studied Physics, but I build with data now, and I like where it’s heading   
 - I used to draw with charcoal. Still miss it! You can find my sketches [here](https://instagram.com/art.escape_dystopia)
 
