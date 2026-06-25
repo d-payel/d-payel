@@ -58,15 +58,14 @@
 
 ---
 
-## Technical Skills
+## <img src="https://github.com/d-payel/gifs_/blob/main/pixelated_cat.gif" width="40" height="40" align="center" />  Technical Skills
 
 | Category | Tools |
 | :--- | :--- |
 | **Languages** | `Python`, `SQL` |
-| **Analysis & ML** | `Pandas`, `NumPy`, `Scikit-learn`, `Regression`, `Boosting`, `Classification`, `Hypothesis Testing`, `RFM/Cohort Analysis` |
-| **Deep Learning & NLP** | `TensorFlow`, `Keras`, `LSTM`, `NLTK`, `GloVe` |
+| **Analysis & ML** | `Pandas`, `NumPy`, `Scikit-learn`, `Regression`, `Boosting`, `Classification`, `Hypothesis Testing` |
+| **Deep Learning & NLP** | `TensorFlow`, `Keras`, `LSTM`, `NLTK`, `GloVe`, `BERT`, `RAG`|
 | **Visualization** | `Matplotlib`, `Seaborn`, `Tableau` |
-| **Data Ops** | `REST APIs`, `Web Scraping (Selenium)` |
 
 ---
 ## A Bit About Me
