@@ -6,7 +6,7 @@
 
 ## <img src="https://github.com/d-payel/gifs_/blob/main/cat_typing.gif" width="40" height="40" align="center" /> Featured Projects
 
-### 1. FinDocIQ — Financial Document Intelligence | *RAG*
+### 1. FinDocIQ: Financial Document Intelligence | *RAG*
 > Built a production-style RAG system that lets you ask natural language questions over any financial PDF such as SEC 10-K filings, annual reports, earnings releases.
 
 | Tech Stack | Live Demo | View Repo |
