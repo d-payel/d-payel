@@ -6,7 +6,7 @@ Right now, I’m building things that make sense of markets, tweets, and everyth
 
 ---
 
-## Featured Projects
+## <img src="https://github.com/d-payel/gifs_/blob/main/cat_typing.gif" width="40" height="40" align="center" /> Featured Projects
 
 ### 1. Bitcoin Sentiment Analysis | *NLP & Deep Learning*
 > Developed a Bidirectional LSTM model with GloVe embeddings to classify crypto sentiment from tweets. Tackled data imbalance and overfitting to significantly improve classification performance on niche market terminology.
