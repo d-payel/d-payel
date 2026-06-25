@@ -1,4 +1,5 @@
-# Hi, I’m Payel Dutta
+ ## Hi, I’m Payel!
+<!--- <img src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539" width="900" height="600" align="center" /> --->
 
 **Data Science Intern | Physics M.Sc. Grad**
 
