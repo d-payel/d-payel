@@ -1,5 +1,4 @@
  <!-- ## Hi, I’m Payel! -->
-<img src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539" width="900" height="600" align="center" />
 
 <!--**Data Science Intern | Physics M.Sc. Grad** -->
 
@@ -70,4 +69,6 @@
 ## A Bit About Me
 - I studied Physics, but I build with data now, and I like where it’s heading   
 - I used to draw with charcoal. You can find my sketches [here](https://instagram.com/art.escape_dystopia)
+
+ <img src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539" width="900" height="550" align="center" />
 
