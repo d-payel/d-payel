@@ -4,7 +4,7 @@
 
 ---
 
-## <img src="https://github.com/d-payel/gifs_/blob/main/cat_typing.gif" width="40" height="40" align="center" /> Projects I've built
+## <img src="https://github.com/d-payel/gifs_/blob/main/start_gif.gif" width="40" height="40" align="center" /> Projects I've built
 
 ### 1. FinDocIQ: Financial Document Intelligence | *RAG*
 > Built a production-style RAG system that lets you ask natural language questions over any financial PDF such as SEC 10-K filings, annual reports, earnings releases.
