@@ -1,14 +1,20 @@
 # Hi, I’m Payel Dutta
 
-**Data Science Intern | Physics Grad**
-
-Right now, I’m building things that make sense of markets, tweets, and everything messy in between. Interested in applying maths to real-world problems.
+**Data Science Intern | Physics M.Sc. Grad**
 
 ---
 
 ## <img src="https://github.com/d-payel/gifs_/blob/main/cat_typing.gif" width="40" height="40" align="center" /> Featured Projects
 
-### 1. Bitcoin Sentiment Analysis | *NLP & Deep Learning*
+### 1. FinDocIQ — Financial Document Intelligence | *RAG*
+> Built a production-style RAG system that lets you ask natural language questions over any financial PDF such as SEC 10-K filings, annual reports, earnings releases.
+
+| Tech Stack | Live Demo | View Repo |
+| :--- | :--- | :--- |
+| `LangChain LCEL` `ChromaDB` `HuggingFace Embeddings` `Groq LLaMA 3` `Streamlit`| **[App Link](https://findocrag-4i37sfxvbn7ddn5flozvwd.streamlit.app)** | **[GitHub →](https://github.com/d-payel/finDoc_rag)** |
+
+---
+### 2. Bitcoin Sentiment Analysis | *NLP & Deep Learning*
 > Developed a Bidirectional LSTM model with GloVe embeddings to classify crypto sentiment from tweets. Tackled data imbalance and overfitting to significantly improve classification performance on niche market terminology.
 
 | Tech Stack | Key Result | View Repo |
@@ -16,7 +22,7 @@ Right now, I’m building things that make sense of markets, tweets, and everyth
 | `Tensorflow` `Keras` `NLTK` `Selenium`| **F1-Score 0.72 on Test Data** | **[GitHub →](https://github.com/d-payel/coinSentiment_lstm)** |
 
 ---
-### 2. Crypto Volatility Prediction | *Regression & Feature Engineering*
+### 3. Crypto Volatility Prediction | *Regression & Feature Engineering*
 > Built a model to forecast 30-minute BTC/USD volatility using Lasso & Ridge regression. Proved that `abs_log_return` is the strongest predictor of future risk.
 
 | Tech Stack | Key Result | View Repo |
@@ -30,7 +36,7 @@ Right now, I’m building things that make sense of markets, tweets, and everyth
 
 ---
 
-### 3. Customer Segmentation & Retention | *SQL & Cohort Analysis*
+### 4. Customer Segmentation & Retention | *SQL & Cohort Analysis*
 > Analyzed user data to uncover retention patterns. Revealed a **>90% user drop-off after month one**, leading to data-driven recommendations for targeted reactivation campaigns.
 
 | Tech Stack | Key Result | View Repo |  
@@ -40,7 +46,7 @@ Right now, I’m building things that make sense of markets, tweets, and everyth
 
 ---
 
-### 4. Bike Rental Demand Analysis | *Hypothesis Testing & EDA*
+### 5. Bike Rental Demand Analysis | *Hypothesis Testing & EDA*
 > Used statistical testing to identify the core drivers of bike-sharing demand. Proved that **weather was a significant factor (P < .001)**, while day-of-week was not, informing a strategy to optimize fleet availability.
 
 | Tech Stack | Key Result | View Repo |
